@@ -5,7 +5,7 @@ Certainly! Here's a shorter version of the README:
 
 # 🚀 **Mars Rover Data Analysis** 🌌
 
-Welcome to the **Mars Rover Data Analysis** project! This analysis explores temperature and atmospheric pressure data collected by NASA's **Curiosity Rover** on Mars. We aim to understand Martian weather patterns, estimate the Martian year length, and identify the coldest and hottest months on the Red Planet. 🌍🪐
+Welcome to the **Mars Rover Data Analysis** project! This analysis explores temperature and atmospheric pressure data collected by NASA's **Curiosity Rover** on Mars. I aim to understand Martian weather patterns, estimate the Martian year length, and identify the coldest and hottest months on the Red Planet. 🌍🪐
 
 ---
 
